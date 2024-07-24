@@ -28,6 +28,7 @@
     "clsx": "^2.1.1",
     "electron-updater": "^6.1.7",
     "lucide-react": "^0.414.0",
+    "react-router-dom": "^6.25.1",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7"
   },

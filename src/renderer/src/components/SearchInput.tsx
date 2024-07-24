@@ -7,7 +7,7 @@ export function SearchInput() {
       <form>
         <div className="relative">
           <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
-          <Input type="search" placeholder="Search" className="pl-8" />
+          <Input type="search" placeholder="https://..." className="pl-8" />
         </div>
       </form>
     </div>

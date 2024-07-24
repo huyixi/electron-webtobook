@@ -1,13 +1,9 @@
-import { SearchInput } from './components/SearchInput'
-import { Button } from './components/ui/button'
-
+// App.tsx
+import { Outlet } from 'react-router-dom'
 function App(): JSX.Element {
   return (
     <>
-      <div className="flex">
-        <SearchInput />
-        <Button>Add</Button>
-      </div>
+      <Outlet />
     </>
   )
 }
